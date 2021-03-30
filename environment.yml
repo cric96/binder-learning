@@ -1,4 +1,4 @@
-name: smile-env
+name: scafi-env
 channels:
   - conda-forge
   - simplect
