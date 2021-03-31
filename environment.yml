@@ -5,6 +5,7 @@ channels:
   - jetbrains
 dependencies:
   - nbdime
-  - jupyterlab-git
+  - @jupyterlab-git
   - kotlin-jupyter-kernel
   - clojupyter
+  - nbdime-jupyterlab
