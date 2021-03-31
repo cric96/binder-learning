@@ -4,5 +4,7 @@ channels:
   - simplect
   - jetbrains
 dependencies:
+  - nbdime
+  - jupyterlab-git
   - kotlin-jupyter-kernel
   - clojupyter
